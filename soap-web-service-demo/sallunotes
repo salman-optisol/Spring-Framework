@@ -1,0 +1,6 @@
+SOAP web service Demo
+---------------------
+
+Contract first approach - defining formats beforehand
+XSD - XML Schema Definition
+JAXB - For XML Binding to Java objects

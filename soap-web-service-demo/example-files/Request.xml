@@ -1,0 +1,4 @@
+<GetCourseDetailsRequest xmlns="http://salluworld.com" xsi:schemaLocation="http://salluworld.com Request.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>1</id>
+</GetCourseDetailsRequest>

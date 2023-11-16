@@ -1,0 +1,8 @@
+<GetCourseDetailsResponse xmlns="http://salluworld.com" xsi:schemaLocation="http://salluworld.com Response.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <CourseDetails>
+        <id>1</id>
+        <name>Spring Boot Course</name>
+        <description>This is the comprehensive course for learning Spring boot</description>
+    </CourseDetails>
+</GetCourseDetailsResponse>
