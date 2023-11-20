@@ -1,0 +1,10 @@
+Things that are done in this project:
+-------------------------------------
+
+1. Custom exception class and its exception handler
+2. Provide HATEOAS for further actions
+3. Location URL for the POST requests
+4. Validators like @NotEmpty, @Size(min=2)
+5. @JsonProperty("") for showing field names different in response and request than from in object
+6. Filtering - static - @JsonIgnore
+             - dynamic - @JsonFilter ( used in Employee controller)

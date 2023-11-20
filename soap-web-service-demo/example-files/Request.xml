@@ -1,4 +1,7 @@
-<GetCourseDetailsRequest xmlns="http://salluworld.com" xsi:schemaLocation="http://salluworld.com Request.xsd"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <id>1</id>
-</GetCourseDetailsRequest>
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xs:GetCourseDetailsRequest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xmlns:xs="http://www.salluworld.com"
+                            xsi:schemaLocation="http://www.salluworld.com Request.xsd">
+    <xs:id>23</xs:id>
+</xs:GetCourseDetailsRequest>

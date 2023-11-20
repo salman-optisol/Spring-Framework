@@ -4,3 +4,11 @@ SOAP web service Demo
 Contract first approach - defining formats beforehand
 XSD - XML Schema Definition
 JAXB - For XML Binding to Java objects
+
+Steps for creating a SOAP service:
+--------------------------------
+
+1. Create an XML Schema Definition XSD file defining request and response formats.
+2. Generate Java classes corresponding to the XSD using JAXB maven plugin (do in eclipse, intellij wont support)
+3. Create Endpoint class with methods to accept the request and send response
+4. Create a messageDispatcherServlet in ServletRegistrationBean
