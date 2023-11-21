@@ -1,0 +1,14 @@
+What I learned in this project:
+-------------------------------
+
+Uni directional mappings - only one entity holds the reference to other
+Bi directional mappings - Both entities have reference to each other (provides additional benefits)
+
+Choosing from the above two, signifies how can we navigate from an entity.
+
+Lets create example for all the types:
+    @ManyToOne
+    @OneToMany
+    @ManyToMany
+    @OneToOne
+
