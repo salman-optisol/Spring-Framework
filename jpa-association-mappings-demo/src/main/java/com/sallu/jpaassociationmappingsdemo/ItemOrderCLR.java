@@ -18,7 +18,7 @@ public class ItemOrderCLR implements CommandLineRunner {
     public void run(String... args) throws Exception {
 
 //        repo.createOrder();
-        repo.createOrderItem();
+//        repo.createOrderItem();
 //        repo.readOrder();
 //        repo.readOrderItem();
 //        repo.updateOrder();

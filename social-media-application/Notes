@@ -8,3 +8,4 @@ Things that are done in this project:
 5. @JsonProperty("") for showing field names different in response and request than from in object
 6. Filtering - static - @JsonIgnore
              - dynamic - @JsonFilter ( used in Employee controller)
+7. Swagger ui - localhost:8080/swagger-ui.html
