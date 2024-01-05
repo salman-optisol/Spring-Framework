@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/user_registeration
+    username: root
+    password: salman123
+  jpa:
+    show-sql: true
+  security:
+    user:
+      name: salman
+      password: $2a$12$CWd8jBgs2orM1J1kpIpciuxPYWqw4Cl3xhcGRRrxMxkIo3DBlJ5bS
